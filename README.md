@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
+| `xiaomi/mimo-v2-flash` | `262,144 tokens` | $0.1000/M in | `2026-06-15T01:32:43.107Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-flash) |
 | `anthropic/claude-fable-5` | `1,000,000 tokens` | $10.0000/M in | `2026-06-13T21:52:57.161Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
 | `~anthropic/claude-fable-latest` | `1,000,000 tokens` | $10.0000/M in | `2026-06-13T17:35:33.188Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-fable-latest) |
 | `openrouter/fusion` | `128,000 tokens` | - | `2026-06-13T17:27:27.174Z` | `text` | [Open](https://openrouter.ai/models/openrouter/fusion) |
@@ -680,7 +681,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openrouter/free` | `200,000 tokens` | **FREE** | `2026-02-02T23:43:02.565Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openrouter/free) |
 | `google/gemini-3-pro-preview` | `1,048,576 tokens` | - | `2026-01-27T15:11:59.578Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-preview) |
 | `writer/palmyra-x5` | `1,040,000 tokens` | $0.6000/M in | `2026-01-21T17:42:14.484Z` | `text` | [Open](https://openrouter.ai/models/writer/palmyra-x5) |
-| `xiaomi/mimo-v2-flash` | `262,144 tokens` | $0.1000/M in | `2026-01-21T16:26:04.702Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-flash) |
 | `liquid/lfm-2.2-6b` | `32,768 tokens` | - | `2026-01-20T17:33:36.087Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm-2.2-6b) |
 | `liquid/lfm2-8b-a1b` | `8,192 tokens` | - | `2026-01-20T17:31:27.697Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm2-8b-a1b) |
 | `liquid/lfm-2.5-1.2b-instruct` | `32,768 tokens` | **FREE** | `2026-01-20T17:31:20.872Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-1.2b-instruct) |
