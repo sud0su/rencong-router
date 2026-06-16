@@ -6,13 +6,13 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | - | `2026-06-16T15:43:33.113Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | $1.4000/M in | `2026-06-16T17:45:30.815Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `openrouter/fusion` | `1,000,000 tokens` | - | `2026-06-15T16:55:39.603Z` | `text` | [Open](https://openrouter.ai/models/openrouter/fusion) |
 | `minimax/minimax-m3` | `1,048,576 tokens` | $0.3000/M in | `2026-06-15T15:00:03.787Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/minimax/minimax-m3) |
 | `xiaomi/mimo-v2-flash` | `262,144 tokens` | $0.1000/M in | `2026-06-15T01:32:43.107Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-flash) |
 | `anthropic/claude-fable-5` | `1,000,000 tokens` | $10.0000/M in | `2026-06-13T21:52:57.161Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
 | `~anthropic/claude-fable-latest` | `1,000,000 tokens` | $10.0000/M in | `2026-06-13T17:35:33.188Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-fable-latest) |
-| `moonshotai/kimi-k2.7-code` | `262,144 tokens` | $0.7500/M in | `2026-06-13T13:58:56.538Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.7-code) |
+| `moonshotai/kimi-k2.7-code` | `262,144 tokens` | $0.7400/M in | `2026-06-13T13:58:56.538Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.7-code) |
 | `poolside/laguna-m.1` | `262,144 tokens` | **FREE** | `2026-06-13T11:42:29.138Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | **FREE** | `2026-06-13T11:42:23.502Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
 | `stepfun/step-3.7-flash` | `256,000 tokens` | $0.2000/M in | `2026-06-12T16:33:16.030Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/stepfun/step-3.7-flash) |
@@ -133,7 +133,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-3.1-pro-preview` | `1,048,576 tokens` | $2.0000/M in | `2026-04-27T19:36:42.970Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.1-pro-preview) |
 | `moonshotai/kimi-k2.6` | `262,144 tokens` | $0.6800/M in | `2026-04-27T19:36:40.219Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.6) |
 | `google/gemini-3-flash-preview` | `1,048,576 tokens` | $0.5000/M in | `2026-04-27T19:36:36.393Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3-flash-preview) |
-| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | $0.0980/M in | `2026-04-27T15:52:44.280Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
+| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | $0.0900/M in | `2026-04-27T15:52:44.280Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `deepseek/deepseek-v4-pro` | `1,048,576 tokens` | $0.4350/M in | `2026-04-27T15:52:38.901Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro) |
 | `qwen/qwen3.5-plus-20260420` | `1,000,000 tokens` | $0.3000/M in | `2026-04-27T04:21:21.854Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3.5-plus-20260420) |
 | `qwen/qwen3.6-flash` | `1,000,000 tokens` | $0.1875/M in | `2026-04-27T04:21:18.979Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3.6-flash) |
