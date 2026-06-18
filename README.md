@@ -688,7 +688,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `liquid/lfm-2.2-6b` | `32,768 tokens` | - | `2026-01-20T17:33:36.087Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm-2.2-6b) |
 | `liquid/lfm2-8b-a1b` | `8,192 tokens` | - | `2026-01-20T17:31:27.697Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm2-8b-a1b) |
 | `liquid/lfm-2.5-1.2b-instruct` | `32,768 tokens` | **FREE** | `2026-01-20T17:31:20.872Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-1.2b-instruct) |
-| `liquid/lfm-2.5-1.2b-thinking` | `32,768 tokens` | **FREE** | `2026-01-20T17:31:17.106Z` | `text, reasoning` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-1.2b-thinking) |
+| `liquid/lfm-2.5-1.2b-thinking` | `32,768 tokens` | **FREE** | `2026-01-20T17:31:17.106Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-1.2b-thinking) |
 | `nex-agi/deepseek-v3.1-nex-n1` | `8,192 tokens` | - | `2026-01-09T16:52:05.526Z` | `text` | [Open](https://openrouter.ai/models/nex-agi/deepseek-v3.1-nex-n1) |
 | `tngtech/tng-r1t-chimera` | `163,840 tokens` | - | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tngtech/tng-r1t-chimera) |
 | `qwen/qwen3-vl-8b-thinking` | `256,000 tokens` | $0.1170/M in | `2026-01-08T19:23:52.555Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-8b-thinking) |
