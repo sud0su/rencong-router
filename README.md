@@ -261,7 +261,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `thedrummer/valkyrie-49b-v1` | `131,072 tokens` | - | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/thedrummer/valkyrie-49b-v1) |
 | `thedrummer/unslopnemo-12b` | `32,768 tokens` | $0.4000/M in | `2026-03-24T19:43:16.801Z` | `text, tools` | [Open](https://openrouter.ai/models/thedrummer/unslopnemo-12b) |
 | `thedrummer/skyfall-36b-v2` | `32,768 tokens` | $0.5500/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/skyfall-36b-v2) |
-| `thedrummer/rocinante-12b` | `32,768 tokens` | $0.1700/M in | `2026-03-24T19:43:16.801Z` | `text, tools` | [Open](https://openrouter.ai/models/thedrummer/rocinante-12b) |
+| `thedrummer/rocinante-12b` | `32,768 tokens` | $0.2500/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/rocinante-12b) |
 | `thedrummer/cydonia-24b-v4.1` | `131,072 tokens` | $0.3000/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/cydonia-24b-v4.1) |
 | `tencent/hunyuan-a13b-instruct` | `131,072 tokens` | $0.1400/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hunyuan-a13b-instruct) |
 | `teknium/openhermes-2.5-mistral-7b` | `4,096 tokens` | - | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/teknium/openhermes-2.5-mistral-7b) |
@@ -437,7 +437,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `microsoft/phi-4-reasoning-plus` | `32,768 tokens` | - | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/microsoft/phi-4-reasoning-plus) |
 | `microsoft/phi-4-reasoning` | `32,768 tokens` | - | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/microsoft/phi-4-reasoning) |
 | `microsoft/phi-4-multimodal-instruct` | `131,072 tokens` | - | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/microsoft/phi-4-multimodal-instruct) |
-| `microsoft/phi-4` | `16,384 tokens` | $0.0650/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/microsoft/phi-4) |
+| `microsoft/phi-4` | `16,384 tokens` | $0.0700/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/microsoft/phi-4) |
 | `microsoft/phi-3.5-mini-128k-instruct` | `128,000 tokens` | - | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/microsoft/phi-3.5-mini-128k-instruct) |
 | `microsoft/phi-3-mini-128k-instruct` | `128,000 tokens` | - | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/microsoft/phi-3-mini-128k-instruct) |
 | `microsoft/phi-3-medium-4k-instruct` | `4,000 tokens` | - | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/microsoft/phi-3-medium-4k-instruct) |
@@ -694,7 +694,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `nex-agi/deepseek-v3.1-nex-n1` | `8,192 tokens` | - | `2026-01-09T16:52:05.526Z` | `text` | [Open](https://openrouter.ai/models/nex-agi/deepseek-v3.1-nex-n1) |
 | `tngtech/tng-r1t-chimera` | `163,840 tokens` | - | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tngtech/tng-r1t-chimera) |
 | `qwen/qwen3-vl-8b-thinking` | `256,000 tokens` | $0.1170/M in | `2026-01-08T19:23:52.555Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-8b-thinking) |
-| `prime-intellect/intellect-3` | `131,072 tokens` | $0.2000/M in | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/prime-intellect/intellect-3) |
+| `prime-intellect/intellect-3` | `131,072 tokens` | - | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/prime-intellect/intellect-3) |
 | `perplexity/sonar-pro-search` | `200,000 tokens` | $3.0000/M in | `2026-01-08T19:23:52.555Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/perplexity/sonar-pro-search) |
 | `openai/gpt-oss-safeguard-20b` | `131,072 tokens` | $0.0750/M in | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/openai/gpt-oss-safeguard-20b) |
 | `moonshotai/kimi-k2-thinking` | `262,144 tokens` | $0.6000/M in | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2-thinking) |
@@ -715,7 +715,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `mistralai/ministral-8b-2512` | `262,144 tokens` | $0.1500/M in | `2025-12-10T16:54:03.715Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/mistralai/ministral-8b-2512) |
 | `mistralai/ministral-3b-2512` | `131,072 tokens` | $0.1000/M in | `2025-12-10T16:53:53.577Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/mistralai/ministral-3b-2512) |
 | `relace/relace-search` | `256,000 tokens` | $1.0000/M in | `2025-12-08T17:15:38.319Z` | `text, tools` | [Open](https://openrouter.ai/models/relace/relace-search) |
-| `essentialai/rnj-1-instruct` | `32,768 tokens` | $0.1500/M in | `2025-12-08T15:30:33.048Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/essentialai/rnj-1-instruct) |
+| `essentialai/rnj-1-instruct` | `32,768 tokens` | - | `2025-12-08T15:30:33.048Z` | `text, reasoning` | [Open](https://openrouter.ai/models/essentialai/rnj-1-instruct) |
 | `amazon/nova-2-lite-v1` | `1,000,000 tokens` | $0.3000/M in | `2025-12-05T00:11:57.060Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/amazon/nova-2-lite-v1) |
 | `allenai/olmo-3-7b-instruct` | `65,536 tokens` | - | `2025-11-22T00:00:24.418Z` | `text` | [Open](https://openrouter.ai/models/allenai/olmo-3-7b-instruct) |
 | `openrouter/sherlock-think-alpha` | `1,840,000 tokens` | - | `2025-11-20T02:01:49.950Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openrouter/sherlock-think-alpha) |
