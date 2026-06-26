@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
+| `x-ai/grok-4.3` | `1,000,000 tokens` | $1.2500/M in | `2026-06-25T20:43:23.740Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `openai/gpt-image-1` | `400,000 tokens` | - | `2026-06-24T07:34:03.584Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1) |
 | `openai/gpt-image-1-mini` | `400,000 tokens` | - | `2026-06-24T07:34:00.246Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1-mini) |
 | `openai/gpt-image-2` | `400,000 tokens` | - | `2026-06-24T07:33:54.372Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-2) |
@@ -48,8 +49,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `nex-agi/nex-n2-pro` | `262,144 tokens` | $0.2500/M in | `2026-06-08T17:58:09.809Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/nex-agi/nex-n2-pro) |
 | `sourceful/riverflow-v2.5-pro` | `32,768 tokens` | - | `2026-06-08T14:35:13.079Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-pro) |
 | `sourceful/riverflow-v2.5-fast` | `32,768 tokens` | - | `2026-06-08T14:34:59.712Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-fast) |
-| `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | $0.0900/M in | `2026-06-04T16:36:20.070Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
-| `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | $0.0900/M in | `2026-06-04T16:36:20.070Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
+| `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | $0.0850/M in | `2026-06-04T16:36:20.070Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
+| `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | $0.0850/M in | `2026-06-04T16:36:20.070Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `nvidia/nemotron-3.5-content-safety` | `128,000 tokens` | **FREE** | `2026-06-04T14:19:12.864Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3.5-content-safety) |
 | `nvidia/nemotron-3-ultra-550b-a55b` | `1,000,000 tokens` | $0.5000/M in | `2026-06-04T13:45:46.170Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-ultra-550b-a55b) |
 | `nvidia/nemotron-3-ultra-550b-a55b` | `1,000,000 tokens` | $0.5000/M in | `2026-06-04T13:45:46.170Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-ultra-550b-a55b) |
@@ -114,7 +115,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `recraft/recraft-v4` | `65,536 tokens` | - | `2026-05-07T22:08:01.711Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4) |
 | `recraft/recraft-v3` | `65,536 tokens` | - | `2026-05-07T22:07:59.248Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v3) |
 | `x-ai/grok-4.20` | `2,000,000 tokens` | $1.2500/M in | `2026-05-07T18:58:44.584Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.20) |
-| `x-ai/grok-4.3` | `1,000,000 tokens` | $1.2500/M in | `2026-05-07T18:46:53.496Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `google/gemini-3.1-flash-lite` | `1,048,576 tokens` | $0.2500/M in | `2026-05-07T16:01:49.211Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-lite) |
 | `inclusionai/ling-2.6-1t` | `262,144 tokens` | $0.0750/M in | `2026-05-07T14:58:54.088Z` | `text, tools` | [Open](https://openrouter.ai/models/inclusionai/ling-2.6-1t) |
 | `google/chirp-3` | `-` | - | `2026-05-06T17:19:59.970Z` | `audio` | [Open](https://openrouter.ai/models/google/chirp-3) |
