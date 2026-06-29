@@ -19,7 +19,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-4.8` | `1,000,000 tokens` | $5.0000/M in | `2026-06-22T15:27:15.019Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8) |
 | `anthropic/claude-opus-4.7-fast` | `1,000,000 tokens` | $30.0000/M in | `2026-06-22T15:27:14.737Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7-fast) |
 | `anthropic/claude-opus-4.7` | `1,000,000 tokens` | $5.0000/M in | `2026-06-22T15:27:14.454Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
-| `anthropic/claude-opus-4.6-fast` | `1,000,000 tokens` | $30.0000/M in | `2026-06-22T15:27:14.140Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6-fast) |
+| `anthropic/claude-opus-4.6-fast` | `1,000,000 tokens` | - | `2026-06-22T15:27:14.140Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6-fast) |
 | `anthropic/claude-sonnet-4.6` | `1,000,000 tokens` | $3.0000/M in | `2026-06-22T15:27:13.802Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4.6) |
 | `anthropic/claude-opus-4.6` | `1,000,000 tokens` | $5.0000/M in | `2026-06-22T15:27:13.481Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6) |
 | `openai/whisper-large-v3` | `-` | - | `2026-06-19T20:57:26.073Z` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3) |
@@ -62,7 +62,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `xiaomi/mimo-v2-pro` | `1,048,576 tokens` | - | `2026-06-01T01:43:31.694Z` | `text, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-pro) |
 | `alfredpros/codellama-7b-instruct-solidity` | `4,096 tokens` | - | `2026-05-31T00:54:54.380Z` | `text` | [Open](https://openrouter.ai/models/alfredpros/codellama-7b-instruct-solidity) |
 | `openai/gpt-audio` | `128,000 tokens` | $2.5000/M in | `2026-05-29T23:00:33.657Z` | `text, audio, tools` | [Open](https://openrouter.ai/models/openai/gpt-audio) |
-| `stepfun/step-3.5-flash` | `262,144 tokens` | $0.0900/M in | `2026-05-28T16:21:27.767Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/stepfun/step-3.5-flash) |
+| `stepfun/step-3.5-flash` | `262,144 tokens` | $0.1000/M in | `2026-05-28T16:21:27.767Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/stepfun/step-3.5-flash) |
 | `google/gemini-embedding-2` | `8,192 tokens` | - | `2026-05-27T21:37:22.479Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-embedding-2) |
 | `nvidia/parakeet-tdt-0.6b-v3` | `-` | - | `2026-05-27T14:21:19.127Z` | `audio` | [Open](https://openrouter.ai/models/nvidia/parakeet-tdt-0.6b-v3) |
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | $0.3000/M in | `2026-05-26T20:25:56.298Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
