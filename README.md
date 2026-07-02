@@ -2,10 +2,12 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (782)
+## Available Cloud Models (784)
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
+| `poolside/laguna-xs-2.1` | `262,144 tokens` | $0.0600/M in | `2026-07-02T17:09:23.206Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
+| `poolside/laguna-xs-2.1` | `262,144 tokens` | $0.0600/M in | `2026-07-02T17:09:23.206Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
 | `anthropic/claude-fable-5` | `1,000,000 tokens` | $10.0000/M in | `2026-07-01T19:41:36.643Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
 | `~anthropic/claude-fable-latest` | `1,000,000 tokens` | $10.0000/M in | `2026-07-01T19:41:22.647Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-fable-latest) |
 | `anthropic/claude-sonnet-5` | `1,000,000 tokens` | $2.0000/M in | `2026-06-30T18:40:17.094Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-5) |
