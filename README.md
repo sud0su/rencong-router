@@ -2,10 +2,12 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (787)
+## Available Cloud Models (789)
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
+| `aion-labs/aion-3.0` | `131,072 tokens` | $3.0000/M in | `2026-07-07T19:17:06.600Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/aion-labs/aion-3.0) |
+| `aion-labs/aion-3.0-mini` | `131,072 tokens` | $0.7000/M in | `2026-07-07T19:17:03.625Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/aion-labs/aion-3.0-mini) |
 | `anthropic/claude-fable-5` | `1,000,000 tokens` | $10.0000/M in | `2026-07-06T20:55:51.345Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
 | `nex-agi/nex-n2-mini` | `262,144 tokens` | $0.0250/M in | `2026-07-06T18:57:30.368Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/nex-agi/nex-n2-mini) |
 | `tencent/hy3` | `262,144 tokens` | $0.2000/M in | `2026-07-06T15:18:22.681Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
@@ -43,7 +45,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `poolside/laguna-m.1` | `262,144 tokens` | $0.2000/M in | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | $0.1000/M in | `2026-06-18T14:40:46.361Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | $0.1000/M in | `2026-06-18T14:40:46.361Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.9000/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.9300/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `google/gemini-3.1-flash-image` | `131,072 tokens` | $0.5000/M in | `2026-06-18T04:02:13.051Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-image) |
 | `google/gemini-3-pro-image` | `65,536 tokens` | $2.0000/M in | `2026-06-18T04:01:39.173Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image) |
 | `cohere/north-mini-code` | `256,000 tokens` | **FREE** | `2026-06-17T21:48:58.762Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/cohere/north-mini-code) |
@@ -675,7 +677,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `bytedance-seed/seed-2.0-mini` | `262,144 tokens` | $0.1000/M in | `2026-02-26T18:58:51.947Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/bytedance-seed/seed-2.0-mini) |
 | `qwen/qwen3.5-flash-02-23` | `1,000,000 tokens` | $0.0650/M in | `2026-02-25T21:09:36.451Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3.5-flash-02-23) |
 | `google/gemini-3.1-pro-preview-customtools` | `1,048,756 tokens` | $2.0000/M in | `2026-02-25T19:23:18.275Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.1-pro-preview-customtools) |
-| `aion-labs/aion-2.0` | `131,072 tokens` | $0.8000/M in | `2026-02-24T19:34:10.842Z` | `text, reasoning` | [Open](https://openrouter.ai/models/aion-labs/aion-2.0) |
+| `aion-labs/aion-2.0` | `131,072 tokens` | $0.8000/M in | `2026-02-24T19:34:10.842Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/aion-labs/aion-2.0) |
 | `openrouter/aurora-alpha` | `128,000 tokens` | - | `2026-02-19T23:01:49.895Z` | `text, reasoning` | [Open](https://openrouter.ai/models/openrouter/aurora-alpha) |
 | `qwen/qwen3.5-plus-02-15` | `1,000,000 tokens` | $0.2600/M in | `2026-02-16T08:39:05.789Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3.5-plus-02-15) |
 | `minimax/minimax-m2-her` | `65,536 tokens` | $0.3000/M in | `2026-02-15T16:31:03.972Z` | `text` | [Open](https://openrouter.ai/models/minimax/minimax-m2-her) |
