@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
+| `x-ai/grok-build-0.1` | `256,000 tokens` | $1.0000/M in | `2026-07-07T23:44:41.824Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
 | `aion-labs/aion-3.0` | `131,072 tokens` | $3.0000/M in | `2026-07-07T19:17:06.600Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/aion-labs/aion-3.0) |
 | `aion-labs/aion-3.0-mini` | `131,072 tokens` | $0.7000/M in | `2026-07-07T19:17:03.625Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/aion-labs/aion-3.0-mini) |
 | `anthropic/claude-fable-5` | `1,000,000 tokens` | $10.0000/M in | `2026-07-06T20:55:51.345Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
@@ -77,7 +78,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `nvidia/parakeet-tdt-0.6b-v3` | `-` | - | `2026-05-27T14:21:19.127Z` | `audio` | [Open](https://openrouter.ai/models/nvidia/parakeet-tdt-0.6b-v3) |
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | $0.3000/M in | `2026-05-26T20:25:56.298Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `qwen/qwen3.7-max` | `1,000,000 tokens` | $1.2500/M in | `2026-05-21T15:32:36.118Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3.7-max) |
-| `x-ai/grok-build-0.1` | `256,000 tokens` | $1.0000/M in | `2026-05-20T17:28:47.985Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
 | `google/gemini-3.5-flash` | `1,048,576 tokens` | $1.5000/M in | `2026-05-19T18:53:37.316Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.5-flash) |
 | `x-ai/grok-imagine-video` | `-` | - | `2026-05-18T15:21:34.734Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-video) |
 | `x-ai/grok-imagine-image-quality` | `65,536 tokens` | - | `2026-05-18T15:21:32.930Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-image-quality) |
@@ -276,7 +276,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `thedrummer/valkyrie-49b-v1` | `131,072 tokens` | - | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/thedrummer/valkyrie-49b-v1) |
 | `thedrummer/unslopnemo-12b` | `32,768 tokens` | $0.4000/M in | `2026-03-24T19:43:16.801Z` | `text, tools` | [Open](https://openrouter.ai/models/thedrummer/unslopnemo-12b) |
 | `thedrummer/skyfall-36b-v2` | `32,768 tokens` | $0.5500/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/skyfall-36b-v2) |
-| `thedrummer/rocinante-12b` | `32,768 tokens` | $0.2500/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/rocinante-12b) |
+| `thedrummer/rocinante-12b` | `65,536 tokens` | $0.2500/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/rocinante-12b) |
 | `thedrummer/cydonia-24b-v4.1` | `131,072 tokens` | $0.3000/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/cydonia-24b-v4.1) |
 | `tencent/hunyuan-a13b-instruct` | `131,072 tokens` | $0.1400/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hunyuan-a13b-instruct) |
 | `teknium/openhermes-2.5-mistral-7b` | `4,096 tokens` | - | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/teknium/openhermes-2.5-mistral-7b) |
