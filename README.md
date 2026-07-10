@@ -54,7 +54,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `poolside/laguna-m.1` | `262,144 tokens` | $0.2000/M in | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | $0.2000/M in | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | - | `2026-06-18T14:40:46.361Z` | `text, reasoning` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.5600/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.4200/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `google/gemini-3.1-flash-image` | `131,072 tokens` | $0.5000/M in | `2026-06-18T04:02:13.051Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-image) |
 | `google/gemini-3-pro-image` | `65,536 tokens` | $2.0000/M in | `2026-06-18T04:01:39.173Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image) |
 | `cohere/north-mini-code` | `256,000 tokens` | **FREE** | `2026-06-17T21:48:58.762Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/cohere/north-mini-code) |
@@ -725,7 +725,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `minimax/minimax-m2` | `204,800 tokens` | $0.2550/M in | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/minimax/minimax-m2) |
 | `google/gemini-3-pro-image-preview` | `65,536 tokens` | $2.0000/M in | `2026-01-08T19:23:52.555Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image-preview) |
 | `deepseek/deepseek-v3.2-speciale` | `131,072 tokens` | - | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v3.2-speciale) |
-| `arcee-ai/trinity-mini` | `131,072 tokens` | $0.0450/M in | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/arcee-ai/trinity-mini) |
+| `arcee-ai/trinity-mini` | `131,072 tokens` | - | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/arcee-ai/trinity-mini) |
 | `allenai/olmo-3.1-32b-think` | `65,536 tokens` | - | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/allenai/olmo-3.1-32b-think) |
 | `allenai/olmo-3-7b-think` | `65,536 tokens` | - | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/allenai/olmo-3-7b-think) |
 | `allenai/olmo-3-32b-think` | `65,536 tokens` | $0.1500/M in | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/allenai/olmo-3-32b-think) |
