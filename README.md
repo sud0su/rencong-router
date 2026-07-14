@@ -6,8 +6,9 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
-| `kwaipilot/kat-coder-pro-v2.5` | `256,000 tokens` | $0.7400/M in | `2026-07-14T03:25:00.999Z` | `text, tools` | [Open](https://openrouter.ai/models/kwaipilot/kat-coder-pro-v2.5) |
-| `kwaipilot/kat-coder-air-v2.5` | `256,000 tokens` | $0.1500/M in | `2026-07-14T03:24:51.632Z` | `text, tools` | [Open](https://openrouter.ai/models/kwaipilot/kat-coder-air-v2.5) |
+| `google/gemini-3.1-flash-tts-preview` | `32,768 tokens` | - | `2026-07-14T15:44:12.691Z` | `text` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-tts-preview) |
+| `kwaipilot/kat-coder-pro-v2.5` | `256,000 tokens` | $0.7400/M in | `2026-07-14T15:38:42.199Z` | `text, tools` | [Open](https://openrouter.ai/models/kwaipilot/kat-coder-pro-v2.5) |
+| `kwaipilot/kat-coder-air-v2.5` | `256,000 tokens` | $0.1500/M in | `2026-07-14T15:38:32.195Z` | `text, tools` | [Open](https://openrouter.ai/models/kwaipilot/kat-coder-air-v2.5) |
 | `openai/gpt-5.6-luna-pro` | `1,050,000 tokens` | $1.0000/M in | `2026-07-09T17:57:57.045Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/openai/gpt-5.6-luna-pro) |
 | `openai/gpt-5.6-terra-pro` | `1,050,000 tokens` | $2.5000/M in | `2026-07-09T17:57:55.757Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/openai/gpt-5.6-terra-pro) |
 | `openai/gpt-5.6-sol-pro` | `1,050,000 tokens` | $5.0000/M in | `2026-07-09T17:57:54.353Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/openai/gpt-5.6-sol-pro) |
@@ -56,7 +57,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `poolside/laguna-m.1` | `262,144 tokens` | $0.2000/M in | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | $0.2000/M in | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | - | `2026-06-18T14:40:46.361Z` | `text, reasoning` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.9240/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.9100/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `google/gemini-3.1-flash-image` | `131,072 tokens` | $0.5000/M in | `2026-06-18T04:02:13.051Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-image) |
 | `google/gemini-3-pro-image` | `65,536 tokens` | $2.0000/M in | `2026-06-18T04:01:39.173Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image) |
 | `cohere/north-mini-code` | `256,000 tokens` | **FREE** | `2026-06-17T21:48:58.762Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/cohere/north-mini-code) |
@@ -174,7 +175,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-pro` | `1,048,576 tokens` | $1.2500/M in | `2026-04-27T03:32:06.603Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-2.5-pro) |
 | `qwen/qwen3-8b` | `131,072 tokens` | $0.1170/M in | `2026-04-27T03:32:06.132Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-8b) |
 | `nvidia/llama-3.3-nemotron-super-49b-v1.5` | `131,072 tokens` | $0.4000/M in | `2026-04-24T17:43:10.864Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/llama-3.3-nemotron-super-49b-v1.5) |
-| `google/gemini-3.1-flash-tts-preview` | `8,192 tokens` | - | `2026-04-24T03:04:53.236Z` | `text` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-tts-preview) |
 | `google/veo-3.1-fast` | `-` | - | `2026-04-24T01:37:51.375Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/google/veo-3.1-fast) |
 | `zyphra/zonos-v0.1-transformer` | `4,096 tokens` | - | `2026-04-24T00:27:27.879Z` | `text` | [Open](https://openrouter.ai/models/zyphra/zonos-v0.1-transformer) |
 | `zyphra/zonos-v0.1-hybrid` | `4,096 tokens` | - | `2026-04-24T00:27:27.339Z` | `text` | [Open](https://openrouter.ai/models/zyphra/zonos-v0.1-hybrid) |
