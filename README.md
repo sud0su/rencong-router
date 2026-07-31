@@ -2,10 +2,19 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (854)
+## Available Cloud Models (863)
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
+| `minimax/hailuo-3` | `-` | - | `2026-07-31T02:20:46.595Z` | `text, vision, audio, video, video-gen` | [Open](https://openrouter.ai/models/minimax/hailuo-3) |
+| `runway/aleph-2` | `-` | - | `2026-07-30T23:03:42.705Z` | `text, vision, video, video-gen` | [Open](https://openrouter.ai/models/runway/aleph-2) |
+| `runway/gen-4.5` | `-` | - | `2026-07-30T23:03:41.954Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/runway/gen-4.5) |
+| `fish-audio/s2.1-pro` | `-` | - | `2026-07-30T22:31:12.120Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s2.1-pro) |
+| `fish-audio/s1` | `-` | - | `2026-07-30T22:31:07.008Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s1) |
+| `fish-audio/s2.1-pro-free` | `-` | - | `2026-07-30T22:31:04.100Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s2.1-pro-free) |
+| `fish-audio/s2-pro` | `-` | - | `2026-07-30T22:30:59.066Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s2-pro) |
+| `fish-audio/transcribe-1` | `-` | - | `2026-07-30T22:30:55.777Z` | `audio` | [Open](https://openrouter.ai/models/fish-audio/transcribe-1) |
+| `thinkingmachines/inkling-small` | `1,048,576 tokens` | - | `2026-07-30T20:46:17.951Z` | `text, vision, audio, reasoning` | [Open](https://openrouter.ai/models/thinkingmachines/inkling-small) |
 | `voyageai/voyage-multimodal-3.5` | `32,000 tokens` | - | `2026-07-29T19:47:46.162Z` | `text, vision` | [Open](https://openrouter.ai/models/voyageai/voyage-multimodal-3.5) |
 | `voyageai/rerank-2.5-lite` | `32,000 tokens` | - | `2026-07-29T19:47:45.614Z` | `text` | [Open](https://openrouter.ai/models/voyageai/rerank-2.5-lite) |
 | `voyageai/rerank-2.5` | `32,000 tokens` | - | `2026-07-29T19:47:45.004Z` | `text` | [Open](https://openrouter.ai/models/voyageai/rerank-2.5) |
@@ -41,8 +50,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `qwen/qwen-audio-3.0-tts-flash` | `-` | - | `2026-07-23T15:35:28.823Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen-audio-3.0-tts-flash) |
 | `google/gemini-3.5-flash-lite` | `1,048,576 tokens` | $0.3000/M in | `2026-07-22T12:18:03.891Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.5-flash-lite) |
 | `google/gemini-3.5-flash-lite` | `1,048,576 tokens` | $0.3000/M in | `2026-07-22T12:18:03.891Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.5-flash-lite) |
-| `poolside/laguna-s-2.1` | `262,144 tokens` | $0.1000/M in | `2026-07-21T16:51:38.504Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-s-2.1) |
-| `poolside/laguna-s-2.1` | `1,048,576 tokens` | $0.1000/M in | `2026-07-21T16:51:38.504Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-s-2.1) |
+| `poolside/laguna-s-2.1` | `262,144 tokens` | $0.0900/M in | `2026-07-21T16:51:38.504Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-s-2.1) |
+| `poolside/laguna-s-2.1` | `1,048,576 tokens` | $0.0900/M in | `2026-07-21T16:51:38.504Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-s-2.1) |
 | `google/gemini-3.6-flash` | `1,048,576 tokens` | $1.5000/M in | `2026-07-21T15:27:53.845Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.6-flash) |
 | `google/gemini-3.6-flash` | `1,048,576 tokens` | $1.5000/M in | `2026-07-21T15:27:53.845Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.6-flash) |
 | `tencent/hy3` | `262,144 tokens` | $0.1320/M in | `2026-07-20T17:07:53.472Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3) |
@@ -347,7 +356,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `thudm/glm-4-9b` | `32,000 tokens` | - | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thudm/glm-4-9b) |
 | `thudm/glm-4-32b` | `32,768 tokens` | - | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thudm/glm-4-32b) |
 | `thedrummer/valkyrie-49b-v1` | `131,072 tokens` | - | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/thedrummer/valkyrie-49b-v1) |
-| `thedrummer/unslopnemo-12b` | `32,768 tokens` | $0.4000/M in | `2026-03-24T19:43:16.801Z` | `text, tools` | [Open](https://openrouter.ai/models/thedrummer/unslopnemo-12b) |
+| `thedrummer/unslopnemo-12b` | `1,024,000 tokens` | $0.4000/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/unslopnemo-12b) |
 | `thedrummer/skyfall-36b-v2` | `32,768 tokens` | $0.5500/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/skyfall-36b-v2) |
 | `thedrummer/rocinante-12b` | `65,536 tokens` | $0.2500/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/rocinante-12b) |
 | `thedrummer/cydonia-24b-v4.1` | `131,072 tokens` | $0.3000/M in | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/thedrummer/cydonia-24b-v4.1) |
@@ -391,7 +400,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `qwen/qwen3-30b-a3b-thinking-2507` | `81,920 tokens` | $0.2000/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-30b-a3b-thinking-2507) |
 | `qwen/qwen3-30b-a3b-instruct-2507` | `262,144 tokens` | $0.0481/M in | `2026-03-24T19:43:16.801Z` | `text, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-30b-a3b-instruct-2507) |
 | `qwen/qwen3-30b-a3b` | `131,072 tokens` | $0.1200/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-30b-a3b) |
-| `qwen/qwen3-235b-a22b-thinking-2507` | `262,144 tokens` | $0.3000/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3-235b-a22b-thinking-2507) |
+| `qwen/qwen3-235b-a22b-thinking-2507` | `262,144 tokens` | $0.2300/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3-235b-a22b-thinking-2507) |
 | `qwen/qwen3-235b-a22b-2507` | `262,144 tokens` | $0.0900/M in | `2026-03-24T19:43:16.801Z` | `text, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-235b-a22b-2507) |
 | `qwen/qwen3-235b-a22b` | `131,072 tokens` | $0.4550/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-235b-a22b) |
 | `qwen/qwen3-14b` | `131,072 tokens` | $0.2275/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3-14b) |
