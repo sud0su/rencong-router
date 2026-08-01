@@ -22,7 +22,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `fish-audio/s1` | `-` | - | `2026-07-30T22:31:07.008Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s1) |
 | `fish-audio/s2-pro` | `-` | - | `2026-07-30T22:30:59.066Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s2-pro) |
 | `fish-audio/transcribe-1` | `-` | - | `2026-07-30T22:30:55.777Z` | `audio` | [Open](https://openrouter.ai/models/fish-audio/transcribe-1) |
-| `thinkingmachines/inkling-small` | `524,288 tokens` | $0.5800/M in | `2026-07-30T20:46:17.951Z` | `text, vision, audio, reasoning` | [Open](https://openrouter.ai/models/thinkingmachines/inkling-small) |
+| `thinkingmachines/inkling-small` | `524,288 tokens` | $0.5000/M in | `2026-07-30T20:46:17.951Z` | `text, vision, audio, reasoning` | [Open](https://openrouter.ai/models/thinkingmachines/inkling-small) |
 | `voyageai/voyage-multimodal-3.5` | `32,000 tokens` | - | `2026-07-29T19:47:46.162Z` | `text, vision` | [Open](https://openrouter.ai/models/voyageai/voyage-multimodal-3.5) |
 | `voyageai/rerank-2.5-lite` | `32,000 tokens` | - | `2026-07-29T19:47:45.614Z` | `text` | [Open](https://openrouter.ai/models/voyageai/rerank-2.5-lite) |
 | `voyageai/rerank-2.5` | `32,000 tokens` | - | `2026-07-29T19:47:45.004Z` | `text` | [Open](https://openrouter.ai/models/voyageai/rerank-2.5) |
@@ -73,7 +73,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `deepgram/nova-3` | `-` | - | `2026-07-16T22:08:04.770Z` | `audio` | [Open](https://openrouter.ai/models/deepgram/nova-3) |
 | `nvidia/nemotron-3-super-120b-a12b` | `262,144 tokens` | $0.0850/M in | `2026-07-16T20:38:47.536Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | $0.0850/M in | `2026-07-16T20:38:47.536Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
-| `moonshotai/kimi-k2.6` | `262,144 tokens` | $0.5890/M in | `2026-07-16T18:44:02.934Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.6) |
+| `moonshotai/kimi-k2.6` | `262,144 tokens` | $0.6000/M in | `2026-07-16T18:44:02.934Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.6) |
 | `meta/muse-spark-1.1` | `1,048,576 tokens` | $1.2500/M in | `2026-07-16T15:37:29.788Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/meta/muse-spark-1.1) |
 | `x-ai/grok-4.5` | `500,000 tokens` | $2.0000/M in | `2026-07-15T16:50:12.069Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.5) |
 | `google/gemini-3.1-flash-tts-preview` | `32,768 tokens` | - | `2026-07-14T15:44:12.691Z` | `text` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-tts-preview) |
@@ -109,7 +109,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `recraft/recraft-v4.1-utility` | `65,536 tokens` | - | `2026-06-19T02:06:26.493Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility) |
 | `recraft/recraft-v4.1` | `65,536 tokens` | - | `2026-06-19T02:06:26.161Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | - | `2026-06-18T15:00:53.906Z` | `text, reasoning` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | $1.1200/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.6993/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `google/gemini-3.1-flash-image` | `131,072 tokens` | $0.5000/M in | `2026-06-18T04:02:13.051Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-image) |
 | `google/gemini-3-pro-image` | `131,072 tokens` | $2.0000/M in | `2026-06-18T04:01:39.173Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image) |
 | `cohere/north-mini-code` | `256,000 tokens` | **FREE** | `2026-06-17T21:48:58.762Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/cohere/north-mini-code) |
