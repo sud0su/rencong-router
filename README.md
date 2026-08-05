@@ -362,7 +362,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `qwen/qwq-32b` | `131,072 tokens` | - | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwq-32b) |
 | `qwen/qwen3-vl-30b-a3b-thinking` | `262,144 tokens` | $0.2000/M in | `2026-03-24T19:43:16.801Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-30b-a3b-thinking) |
 | `qwen/qwen3-vl-30b-a3b-instruct` | `262,144 tokens` | $0.1500/M in | `2026-03-24T19:43:16.801Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-30b-a3b-instruct) |
-| `qwen/qwen3-vl-235b-a22b-thinking` | `131,072 tokens` | $0.9800/M in | `2026-03-24T19:43:16.801Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-235b-a22b-thinking) |
+| `qwen/qwen3-vl-235b-a22b-thinking` | `131,072 tokens` | $0.4000/M in | `2026-03-24T19:43:16.801Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-235b-a22b-thinking) |
 | `qwen/qwen3-vl-235b-a22b-instruct` | `262,144 tokens` | $0.2100/M in | `2026-03-24T19:43:16.801Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-235b-a22b-instruct) |
 | `qwen/qwen3-next-80b-a3b-thinking` | `262,144 tokens` | $0.1500/M in | `2026-03-24T19:43:16.801Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-next-80b-a3b-thinking) |
 | `qwen/qwen3-next-80b-a3b-instruct` | `262,144 tokens` | $0.0900/M in | `2026-03-24T19:43:16.801Z` | `text, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-next-80b-a3b-instruct) |
