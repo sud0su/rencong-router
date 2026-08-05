@@ -2,11 +2,12 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (837)
+## Available Cloud Models (838)
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
-| `qwen/qwen-image-3` | `-` | - | `2026-08-05T02:24:26.549Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/qwen/qwen-image-3) |
+| `qwen/qwen-image-3-pro` | `65,536 tokens` | - | `2026-08-05T04:44:17.463Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/qwen/qwen-image-3-pro) |
+| `qwen/qwen-image-3` | `65,536 tokens` | - | `2026-08-05T02:24:26.549Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/qwen/qwen-image-3) |
 | `meta/muse-spark-1.1` | `1,048,576 tokens` | $1.2500/M in | `2026-08-05T00:28:26.029Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/meta/muse-spark-1.1) |
 | `x-ai/grok-4.20` | `2,000,000 tokens` | $1.2500/M in | `2026-08-04T17:55:07.777Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.20) |
 | `x-ai/grok-4.20-multi-agent` | `2,000,000 tokens` | $1.2500/M in | `2026-08-04T17:55:06.870Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.20-multi-agent) |
