@@ -9,9 +9,9 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `meta/muse-spark-1.2-contributor` | `1,048,576 tokens` | $0.1000/M in | `2026-08-21T21:32:16.397Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/meta/muse-spark-1.2-contributor) |
 | `thinkingmachines/inkling-small` | `262,144 tokens` | $0.4500/M in | `2026-08-21T16:46:30.544Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling-small) |
 | `thinkingmachines/inkling-small` | `1,048,576 tokens` | $0.4500/M in | `2026-08-21T16:46:30.544Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling-small) |
-| `thinkingmachines/inkling` | `262,144 tokens` | $1.0000/M in | `2026-08-21T16:46:29.472Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling) |
-| `thinkingmachines/inkling` | `1,048,576 tokens` | $1.0000/M in | `2026-08-21T16:46:29.472Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling) |
-| `thinkingmachines/inkling` | `524,288 tokens` | $1.0000/M in | `2026-08-21T16:46:29.472Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling) |
+| `thinkingmachines/inkling` | `262,144 tokens` | $0.9500/M in | `2026-08-21T16:46:29.472Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling) |
+| `thinkingmachines/inkling` | `1,048,576 tokens` | $0.9500/M in | `2026-08-21T16:46:29.472Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling) |
+| `thinkingmachines/inkling` | `524,288 tokens` | $0.9500/M in | `2026-08-21T16:46:29.472Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/thinkingmachines/inkling) |
 | `deepseek/deepseek-v4-flash-vision-exp` | `1,048,576 tokens` | $0.2200/M in | `2026-08-21T11:48:52.711Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash-vision-exp) |
 | `black-forest-labs/flux-video-upscale` | `-` | - | `2026-08-21T00:03:13.971Z` | `text, video, video-gen` | [Open](https://openrouter.ai/models/black-forest-labs/flux-video-upscale) |
 | `stealth/ox-alpha` | `1,048,576 tokens` | **FREE** | `2026-08-20T20:47:37.940Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/stealth/ox-alpha) |
@@ -90,7 +90,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `x-ai/grok-imagine-video-1.5` | `-` | - | `2026-08-04T17:55:00.803Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-video-1.5) |
 | `x-ai/grok-stt-1.0` | `-` | - | `2026-08-04T17:54:59.793Z` | `audio` | [Open](https://openrouter.ai/models/x-ai/grok-stt-1.0) |
 | `black-forest-labs/flux-3-video` | `-` | - | `2026-08-04T17:37:27.323Z` | `text, vision, video, video-gen` | [Open](https://openrouter.ai/models/black-forest-labs/flux-3-video) |
-| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | $0.0503/M in | `2026-08-03T19:53:54.226Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
+| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | $0.0489/M in | `2026-08-03T19:53:54.226Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `~deepseek/deepseek-v4-flash-latest` | `1,310,720 tokens` | $0.0400/M in | `2026-08-01T17:58:19.741Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-v4-flash-latest) |
 | `fish-audio/s2.1-pro-free` | `-` | - | `2026-07-31T12:52:11.156Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s2.1-pro-free) |
 | `poolside/laguna-xs-2.1` | `262,144 tokens` | $0.0600/M in | `2026-07-31T12:24:29.676Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
