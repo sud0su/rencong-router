@@ -8,7 +8,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | --- | --- | --- | --- | --- | --- |
 | `qwen/qwen3-coder-plus` | `1,000,000 tokens` | $0.6500/M in | `2026-09-13T04:30:06.186Z` | `text, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-coder-plus) |
 | `rekaai/reka-edge` | `16,384 tokens` | $0.1000/M in | `2026-09-13T04:30:05.332Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/rekaai/reka-edge) |
-| `~deepseek/deepseek-v4-flash-latest` | `1,310,720 tokens` | $0.0352/M in | `2026-09-12T09:14:12.914Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-v4-flash-latest) |
+| `~deepseek/deepseek-v4-flash-latest` | `1,310,720 tokens` | $0.0400/M in | `2026-09-12T09:14:12.914Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-v4-flash-latest) |
 | `~moonshotai/kimi-latest` | `1,048,576 tokens` | $2.1000/M in | `2026-09-12T09:14:12.133Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/~moonshotai/kimi-latest) |
 | `~google/gemini-flash-latest` | `1,048,576 tokens` | $0.7500/M in | `2026-09-12T09:14:11.538Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/~google/gemini-flash-latest) |
 | `~anthropic/claude-sonnet-latest` | `1,000,000 tokens` | $2.0000/M in | `2026-09-12T09:14:10.944Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-sonnet-latest) |
@@ -240,8 +240,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openrouter/auto-beta` | `2,000,000 tokens` | - | `2026-07-17T19:30:35.933Z` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto-beta) |
 | `deepgram/aura-2` | `-` | - | `2026-07-16T22:13:22.385Z` | `text` | [Open](https://openrouter.ai/models/deepgram/aura-2) |
 | `deepgram/nova-3` | `-` | - | `2026-07-16T22:08:04.770Z` | `audio` | [Open](https://openrouter.ai/models/deepgram/nova-3) |
-| `nvidia/nemotron-3-super-120b-a12b` | `262,144 tokens` | $0.0850/M in | `2026-07-16T20:38:47.536Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
-| `nvidia/nemotron-3-super-120b-a12b` | `262,144 tokens` | $0.0850/M in | `2026-07-16T20:38:47.536Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
+| `nvidia/nemotron-3-super-120b-a12b` | `262,144 tokens` | $0.0800/M in | `2026-07-16T20:38:47.536Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
+| `nvidia/nemotron-3-super-120b-a12b` | `262,144 tokens` | $0.0800/M in | `2026-07-16T20:38:47.536Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `moonshotai/kimi-k2.6` | `262,144 tokens` | $0.9500/M in | `2026-07-16T18:44:02.934Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.6) |
 | `google/gemini-3.1-flash-tts-preview` | `32,768 tokens` | - | `2026-07-14T15:44:12.691Z` | `text` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-tts-preview) |
 | `kwaipilot/kat-coder-pro-v2.5` | `262,144 tokens` | $0.7400/M in | `2026-07-14T15:38:42.199Z` | `text, tools` | [Open](https://openrouter.ai/models/kwaipilot/kat-coder-pro-v2.5) |
