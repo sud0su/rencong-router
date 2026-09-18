@@ -2,10 +2,12 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (1010)
+## Available Cloud Models (1012)
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
+| `prism-ml/ternary-bonsai-2-27b` | `262,144 tokens` | $0.0750/M in | `2026-09-18T18:50:40.417Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/prism-ml/ternary-bonsai-2-27b) |
+| `z-ai/glm-5.3-flashx` | `1,048,576 tokens` | - | `2026-09-18T16:52:10.939Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-5.3-flashx) |
 | `upstage/solar-pro-3` | `131,072 tokens` | $0.1500/M in | `2026-09-18T15:56:32.024Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/upstage/solar-pro-3) |
 | `upstage/solar-pro4` | `524,288 tokens` | $0.0900/M in | `2026-09-18T15:56:30.728Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/upstage/solar-pro4) |
 | `openrouter/auto-beta` | `2,000,000 tokens` | - | `2026-09-18T15:54:19.442Z` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto-beta) |
@@ -17,14 +19,14 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-5` | `1,000,000 tokens` | $5.0000/M in | `2026-09-15T20:08:19.127Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-5) |
 | `anthropic/claude-opus-5` | `1,000,000 tokens` | $5.0000/M in | `2026-09-15T20:08:19.127Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-5) |
 | `~deepseek/deepseek-pro-latest` | `1,048,576 tokens` | $0.5782/M in | `2026-09-14T15:20:28.312Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-pro-latest) |
-| `~deepseek/deepseek-flash-latest` | `1,048,576 tokens` | $0.1500/M in | `2026-09-14T15:20:25.899Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-flash-latest) |
+| `~deepseek/deepseek-flash-latest` | `1,048,576 tokens` | $0.1400/M in | `2026-09-14T15:20:25.899Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-flash-latest) |
 | `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $0.5782/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
 | `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $0.5782/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
 | `deepseek/deepseek-v4.1-flash` | `1,048,576 tokens` | $0.1500/M in | `2026-09-14T15:19:10.881Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4.1-flash) |
 | `qwen/qwen3-coder-plus` | `1,000,000 tokens` | $0.6500/M in | `2026-09-13T04:30:06.186Z` | `text, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-coder-plus) |
 | `rekaai/reka-edge` | `16,384 tokens` | $0.1000/M in | `2026-09-13T04:30:05.332Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/rekaai/reka-edge) |
 | `~deepseek/deepseek-v4-flash-latest` | `1,310,720 tokens` | $0.0550/M in | `2026-09-12T09:14:12.914Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-v4-flash-latest) |
-| `~moonshotai/kimi-latest` | `1,048,576 tokens` | $2.1000/M in | `2026-09-12T09:14:12.133Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/~moonshotai/kimi-latest) |
+| `~moonshotai/kimi-latest` | `1,048,576 tokens` | $1.9500/M in | `2026-09-12T09:14:12.133Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/~moonshotai/kimi-latest) |
 | `~google/gemini-flash-latest` | `1,048,576 tokens` | $0.7500/M in | `2026-09-12T09:14:11.538Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/~google/gemini-flash-latest) |
 | `~anthropic/claude-sonnet-latest` | `1,000,000 tokens` | $2.0000/M in | `2026-09-12T09:14:10.944Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-sonnet-latest) |
 | `~anthropic/claude-haiku-latest` | `200,000 tokens` | $1.0000/M in | `2026-09-12T09:14:10.279Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-haiku-latest) |
@@ -135,8 +137,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-haiku-4.5` | `200,000 tokens` | $1.0000/M in | `2026-08-28T22:18:17.876Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-haiku-4.5) |
 | `anthropic/claude-opus-4.5` | `200,000 tokens` | $5.0000/M in | `2026-08-28T22:11:50.112Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.5) |
 | `anthropic/claude-opus-4.5` | `200,000 tokens` | $5.0000/M in | `2026-08-28T22:11:50.112Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.5) |
-| `z-ai/glm-5.3` | `1,048,576 tokens` | $1.4000/M in | `2026-08-28T15:00:34.303Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.3) |
-| `z-ai/glm-5.3` | `1,310,720 tokens` | $1.4000/M in | `2026-08-28T15:00:34.303Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.3) |
+| `z-ai/glm-5.3` | `1,048,576 tokens` | $0.9100/M in | `2026-08-28T15:00:34.303Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.3) |
+| `z-ai/glm-5.3` | `1,310,720 tokens` | $0.9100/M in | `2026-08-28T15:00:34.303Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.3) |
 | `openrouter/auto` | `2,000,000 tokens` | - | `2026-08-27T23:04:08.967Z` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto) |
 | `alibaba/wan-3.0-prime` | `-` | - | `2026-08-27T20:50:00.828Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/alibaba/wan-3.0-prime) |
 | `meta/muse-image` | `65,536 tokens` | - | `2026-08-26T23:49:30.055Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/meta/muse-image) |
@@ -191,8 +193,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `liquid/lfm-2.5-2.6b` | `65,536 tokens` | **FREE** | `2026-08-11T20:28:40.538Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-2.6b) |
 | `nvidia/nemotron-3.5-lightning` | `1,000,000 tokens` | $0.0800/M in | `2026-08-11T16:53:47.025Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3.5-lightning) |
 | `nvidia/nemotron-3.5-lightning` | `262,144 tokens` | $0.0800/M in | `2026-08-11T16:53:47.025Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3.5-lightning) |
-| `moonshotai/kimi-k3` | `1,048,576 tokens` | $2.1000/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
-| `moonshotai/kimi-k3` | `1,048,576 tokens` | $2.1000/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
+| `moonshotai/kimi-k3` | `1,048,576 tokens` | $1.9500/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
+| `moonshotai/kimi-k3` | `1,048,576 tokens` | $1.9500/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
 | `sakana/sakana-namazu` | `262,144 tokens` | $0.9500/M in | `2026-08-11T02:53:53.250Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/sakana/sakana-namazu) |
 | `meta/muse-glimmer-30b` | `131,072 tokens` | $0.3500/M in | `2026-08-10T21:31:11.461Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/meta/muse-glimmer-30b) |
 | `meta/muse-glimmer-30b` | `131,072 tokens` | $0.3500/M in | `2026-08-10T21:31:11.461Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/meta/muse-glimmer-30b) |
@@ -213,7 +215,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `x-ai/grok-imagine-video-1.5` | `-` | - | `2026-08-04T17:55:00.803Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-video-1.5) |
 | `x-ai/grok-stt-1.0` | `-` | - | `2026-08-04T17:54:59.793Z` | `audio` | [Open](https://openrouter.ai/models/x-ai/grok-stt-1.0) |
 | `black-forest-labs/flux-3-video` | `-` | - | `2026-08-04T17:37:27.323Z` | `text, vision, video, video-gen` | [Open](https://openrouter.ai/models/black-forest-labs/flux-3-video) |
-| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | $0.0498/M in | `2026-08-03T19:53:54.226Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
+| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | $0.0487/M in | `2026-08-03T19:53:54.226Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `fish-audio/s2.1-pro-free` | `-` | - | `2026-07-31T12:52:11.156Z` | `text` | [Open](https://openrouter.ai/models/fish-audio/s2.1-pro-free) |
 | `poolside/laguna-xs-2.1` | `262,144 tokens` | $0.0600/M in | `2026-07-31T12:24:29.676Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
 | `poolside/laguna-xs-2.1` | `262,144 tokens` | $0.0600/M in | `2026-07-31T12:24:29.676Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
@@ -241,7 +243,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-4.6-fast` | `1,000,000 tokens` | - | `2026-07-23T15:50:52.145Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6-fast) |
 | `qwen/qwen-audio-3.0-tts-plus` | `-` | - | `2026-07-23T15:35:31.450Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen-audio-3.0-tts-plus) |
 | `qwen/qwen-audio-3.0-tts-flash` | `-` | - | `2026-07-23T15:35:28.823Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen-audio-3.0-tts-flash) |
-| `tencent/hy3` | `262,144 tokens` | $0.1320/M in | `2026-07-20T17:07:53.472Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
+| `tencent/hy3` | `262,144 tokens` | $0.0825/M in | `2026-07-20T17:07:53.472Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
 | `meituan/longcat-2.0` | `1,048,756 tokens` | $0.3000/M in | `2026-07-20T13:40:55.842Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/meituan/longcat-2.0) |
 | `bytedance/seedance-2.0-fast` | `-` | - | `2026-07-19T16:39:32.462Z` | `text, vision, audio, video, video-gen` | [Open](https://openrouter.ai/models/bytedance/seedance-2.0-fast) |
 | `bytedance/seedance-2.0` | `-` | - | `2026-07-19T16:39:06.035Z` | `text, vision, audio, video, video-gen` | [Open](https://openrouter.ai/models/bytedance/seedance-2.0) |
@@ -1015,7 +1017,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `amazon/nova-premier-v1` | `1,000,000 tokens` | $2.5000/M in | `2025-11-10T16:00:38.246Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/amazon/nova-premier-v1) |
 | `aion-labs/aion-1.0-mini` | `16,384 tokens` | - | `2025-11-10T16:00:38.246Z` | `text, reasoning` | [Open](https://openrouter.ai/models/aion-labs/aion-1.0-mini) |
 | `aion-labs/aion-1.0` | `32,768 tokens` | - | `2025-11-10T16:00:38.246Z` | `text, reasoning` | [Open](https://openrouter.ai/models/aion-labs/aion-1.0) |
-| `~z-ai/glm-latest` | `1,310,720 tokens` | $0.9000/M in | `None` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~z-ai/glm-latest) |
+| `~z-ai/glm-latest` | `1,310,720 tokens` | $0.8918/M in | `None` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~z-ai/glm-latest) |
 
 ## License
 
