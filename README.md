@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (1011)
+## Available Cloud Models (1010)
 
 | model name | context | pricing | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- | --- |
@@ -14,11 +14,11 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-5` | `1,000,000 tokens` | $5.0000/M in | `2026-09-15T20:08:19.127Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-5) |
 | `anthropic/claude-opus-5` | `1,000,000 tokens` | $5.0000/M in | `2026-09-15T20:08:19.127Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-5) |
 | `upstage/solar-pro4` | `524,288 tokens` | $0.0900/M in | `2026-09-15T17:51:25.879Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/upstage/solar-pro4) |
-| `~deepseek/deepseek-pro-latest` | `1,048,576 tokens` | $0.7000/M in | `2026-09-14T15:20:28.312Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-pro-latest) |
+| `~deepseek/deepseek-pro-latest` | `1,048,576 tokens` | $0.6600/M in | `2026-09-14T15:20:28.312Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-pro-latest) |
 | `~deepseek/deepseek-flash-latest` | `1,048,576 tokens` | $0.1500/M in | `2026-09-14T15:20:25.899Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-flash-latest) |
-| `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $1.3200/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
-| `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $1.3200/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
-| `deepseek/deepseek-v4.1-flash` | `1,048,576 tokens` | $0.3000/M in | `2026-09-14T15:19:10.881Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4.1-flash) |
+| `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $0.6600/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
+| `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $0.6600/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
+| `deepseek/deepseek-v4.1-flash` | `1,048,576 tokens` | $0.1500/M in | `2026-09-14T15:19:10.881Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4.1-flash) |
 | `qwen/qwen3-coder-plus` | `1,000,000 tokens` | $0.6500/M in | `2026-09-13T04:30:06.186Z` | `text, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-coder-plus) |
 | `rekaai/reka-edge` | `16,384 tokens` | $0.1000/M in | `2026-09-13T04:30:05.332Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/rekaai/reka-edge) |
 | `~deepseek/deepseek-v4-flash-latest` | `1,310,720 tokens` | $0.0558/M in | `2026-09-12T09:14:12.914Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-v4-flash-latest) |
@@ -282,9 +282,9 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `recraft/recraft-v4.1-utility` | `65,536 tokens` | - | `2026-06-19T02:06:26.493Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility) |
 | `recraft/recraft-v4.1` | `65,536 tokens` | - | `2026-06-19T02:06:26.161Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | - | `2026-06-18T15:00:53.906Z` | `text, reasoning` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
-| `z-ai/glm-5.2` | `32,768 tokens` | $0.4875/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.4875/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.4875/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `32,768 tokens` | $0.5625/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.5625/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | $0.5625/M in | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `cohere/north-mini-code` | `256,000 tokens` | **FREE** | `2026-06-17T21:48:58.762Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/cohere/north-mini-code) |
 | `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning` | `256,000 tokens` | **FREE** | `2026-06-17T15:56:59.768Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning) |
 | `openrouter/fusion` | `1,000,000 tokens` | - | `2026-06-15T16:55:39.603Z` | `text` | [Open](https://openrouter.ai/models/openrouter/fusion) |
@@ -329,8 +329,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `mistralai/mistral-medium-3.1` | `131,072 tokens` | $0.4000/M in | `2026-05-14T22:39:39.071Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3.1) |
 | `mistralai/mistral-medium-3.1` | `131,072 tokens` | $0.4000/M in | `2026-05-14T22:39:39.071Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3.1) |
 | `mistralai/voxtral-small-24b-2507` | `32,768 tokens` | $0.1000/M in | `2026-05-14T22:39:38.404Z` | `text, audio, tools` | [Open](https://openrouter.ai/models/mistralai/voxtral-small-24b-2507) |
-| `mistralai/mistral-large-2512` | `262,144 tokens` | $0.5000/M in | `2026-05-14T22:39:37.721Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/mistralai/mistral-large-2512) |
-| `mistralai/mistral-large-2512` | `262,144 tokens` | $0.5000/M in | `2026-05-14T22:39:37.721Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/mistralai/mistral-large-2512) |
+| `mistralai/mistral-large-2512` | `262,144 tokens` | - | `2026-05-14T22:39:37.721Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/mistralai/mistral-large-2512) |
 | `mistralai/devstral-2512` | `262,144 tokens` | $0.4000/M in | `2026-05-14T22:39:37.042Z` | `text, tools` | [Open](https://openrouter.ai/models/mistralai/devstral-2512) |
 | `mistralai/mistral-medium-3-5` | `262,144 tokens` | $1.5000/M in | `2026-05-14T22:39:36.220Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3-5) |
 | `mistralai/mistral-medium-3-5` | `262,144 tokens` | $1.5000/M in | `2026-05-14T22:39:36.220Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3-5) |
@@ -1016,7 +1015,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `amazon/nova-premier-v1` | `1,000,000 tokens` | $2.5000/M in | `2025-11-10T16:00:38.246Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/amazon/nova-premier-v1) |
 | `aion-labs/aion-1.0-mini` | `16,384 tokens` | - | `2025-11-10T16:00:38.246Z` | `text, reasoning` | [Open](https://openrouter.ai/models/aion-labs/aion-1.0-mini) |
 | `aion-labs/aion-1.0` | `32,768 tokens` | - | `2025-11-10T16:00:38.246Z` | `text, reasoning` | [Open](https://openrouter.ai/models/aion-labs/aion-1.0) |
-| `~z-ai/glm-latest` | `1,310,720 tokens` | $0.7735/M in | `None` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~z-ai/glm-latest) |
+| `~z-ai/glm-latest` | `1,310,720 tokens` | $0.8775/M in | `None` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~z-ai/glm-latest) |
 
 ## License
 
