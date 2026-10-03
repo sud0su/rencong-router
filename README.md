@@ -100,9 +100,9 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-5-fast` | `1,000,000 tokens` | - | `2026-09-15T20:08:20.214Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-5-fast) |
 | `anthropic/claude-opus-5` | `1,000,000 tokens` | $5.0000/M in | `2026-09-15T20:08:19.127Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-5) |
 | `anthropic/claude-opus-5` | `1,000,000 tokens` | $5.0000/M in | `2026-09-15T20:08:19.127Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-5) |
-| `~deepseek/deepseek-pro-latest` | `1,048,576 tokens` | $0.1200/M in | `2026-09-14T15:20:28.312Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-pro-latest) |
+| `~deepseek/deepseek-pro-latest` | `1,048,576 tokens` | $0.2200/M in | `2026-09-14T15:20:28.312Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-pro-latest) |
 | `~deepseek/deepseek-flash-latest` | `1,048,576 tokens` | $0.0200/M in | `2026-09-14T15:20:25.899Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~deepseek/deepseek-flash-latest) |
-| `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $0.6600/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
+| `deepseek/deepseek-v4-pro-0813` | `1,048,576 tokens` | $0.2200/M in | `2026-09-14T15:19:34.780Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro-0813) |
 | `deepseek/deepseek-v4.1-flash` | `1,048,576 tokens` | $0.3000/M in | `2026-09-14T15:19:10.881Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4.1-flash) |
 | `deepseek/deepseek-v4.1-flash` | `1,048,576 tokens` | $0.3000/M in | `2026-09-14T15:19:10.881Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4.1-flash) |
 | `rekaai/reka-edge` | `16,384 tokens` | $0.1000/M in | `2026-09-13T04:30:05.332Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/rekaai/reka-edge) |
@@ -259,8 +259,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `liquid/lfm-2.5-2.6b` | `65,536 tokens` | **FREE** | `2026-08-11T20:28:40.538Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-2.6b) |
 | `nvidia/nemotron-3.5-lightning` | `1,000,000 tokens` | $0.0595/M in | `2026-08-11T16:53:47.025Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3.5-lightning) |
 | `nvidia/nemotron-3.5-lightning` | `262,144 tokens` | $0.0595/M in | `2026-08-11T16:53:47.025Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3.5-lightning) |
-| `moonshotai/kimi-k3` | `1,048,576 tokens` | $2.7000/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
-| `moonshotai/kimi-k3` | `1,048,576 tokens` | $2.7000/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
+| `moonshotai/kimi-k3` | `1,048,576 tokens` | $0.9900/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
+| `moonshotai/kimi-k3` | `1,048,576 tokens` | $0.9900/M in | `2026-08-11T06:24:45.691Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k3) |
 | `sakana/sakana-namazu` | `262,144 tokens` | $0.9500/M in | `2026-08-11T02:53:53.250Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/sakana/sakana-namazu) |
 | `meta/muse-glimmer-30b` | `131,072 tokens` | $0.3500/M in | `2026-08-10T21:31:11.461Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/meta/muse-glimmer-30b) |
 | `runway/aleph-2` | `-` | - | `2026-08-10T20:20:44.613Z` | `text, vision, video, video-gen` | [Open](https://openrouter.ai/models/runway/aleph-2) |
